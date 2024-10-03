@@ -1,4 +1,4 @@
-![alt text](./Images/life_expectancy.webp "Life Expectancy")
+![alt text](./images/life_expectancy.webp "Life Expectancy")
 # Life Expectancy Analysis
 Authors: Anbita Siregar, Elif Surucu, and Elijah Lopez
 
@@ -26,7 +26,7 @@ This project applied feature engineering to group countries by region (continent
 
 
 ### Child Mortality per Year by Continent
-![alt text](Images\under_5_deaths_by_continent_per_year.png "Under-5 Deaths by Continent per Year")
+![alt text](.images\under_5_deaths_by_continent_per_year.png "Under-5 Deaths by Continent per Year")
 
 * Europe, North America, Oceania, and South America have death counts for children under below 300 per year.
 * In Africa and Asia rates are declining, but still high.
@@ -34,7 +34,7 @@ This project applied feature engineering to group countries by region (continent
 
 
 ### Percentage of GDP per Capita Spent on Healthcare by Continent
-![alt text](Images\healthcare_percent_of_gdp_per_capita_by_continent.png "Percentage of GDP per Capita Spent on Healthcare by Continent")
+![alt text](.images\healthcare_percent_of_gdp_per_capita_by_continent.png "Percentage of GDP per Capita Spent on Healthcare by Continent")
 
 * North America achieves low death counts in children under 5 while spending least on healthcare.
 * Minimum healthcare spend should be 473% of GDP per capita in each country to match this outcome.
@@ -42,18 +42,18 @@ This project applied feature engineering to group countries by region (continent
 
 ### Vaccination Rates for Common Diseases
 #### In Africa
-![alt text](Images\vacinnation_rates_africa.png "Vaccination Rates in Africa")
+![alt text](.images\vaccination_rates_africa.png "Vaccination Rates in Africa")
 
 * Vaccination rates steadily increase over time, finally converging near 83%.
 
 #### In Asia
-![alt text](Images\vacinnation_rates_asia.png "Vaccination Rates in Asia")
+![alt text](.images\vaccination_rates_asia.png "Vaccination Rates in Asia")
 
 * Vaccination rates begin and remain elevated throughout this time period at about 94%.
 
 
 ### Life Expectancy vs Schooling
-![alt text](Images\life_expectancy_vs_schooling.png "Life Expectancy vs Years of Schooling")
+![alt text](.images\life_expectancy_vs_schooling.png "Life Expectancy vs Years of Schooling")
 
 * We see a strong, positive relationship between years of schooling and life expectancy for all continents.
 
