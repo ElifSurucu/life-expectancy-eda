@@ -76,7 +76,7 @@ This analysis leads to three recommendations for increasing life expectancy arou
 
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/anbitasiregar/life-expectancy-eda/blob/main/life_expectancy_eda.ipynb) or review this [presentation](https://docs.google.com/presentation/d/1tgLMF2Z2qtiIgKlLFMRrlvZFwhxVf69_nuTIf_D5-cc/edit?usp=sharing).
+See the full analysis in the [Jupyter Notebook](https://github.com/anbitasiregar/life-expectancy-eda/blob/main/life_expectancy_eda.ipynb) or review this [presentation](https://docs.google.com/presentation/d/1tgLMF2Z2qtiIgKlLFMRrlvZFwhxVf69_nuTIf_D5-cc/edit?usp=sharing). Additionally, all visualizations can be viewed on [Tableau](https://public.tableau.com/app/profile/anbita.siregar/viz/Book1_17278903402660/Recommendations?publish=yes)
 
 For additional info, contact the authors at:
 
